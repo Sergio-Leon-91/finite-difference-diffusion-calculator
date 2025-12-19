@@ -1,0 +1,9 @@
+name: finite-difference-diffusion-calculator
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pillow
